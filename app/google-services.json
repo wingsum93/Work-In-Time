@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_id": "work-in-time",
+    "project_number": "495994466773",
+    "name": "Work In Time"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495994466773:android:457f8f0c07277b50",
+        "client_id": "android:com.ericho.workintime",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.ericho.workintime",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
