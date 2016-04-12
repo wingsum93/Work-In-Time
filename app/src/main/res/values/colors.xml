@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">@color/deep_purple_500</color>
+    <color name="colorPrimaryDark">@color/deep_purple_700</color>
+    <color name="colorAccent">@color/amber_A200</color>
+    <color name="colorControlHighlight">@color/deep_purple_300</color>
+
+    ///******* eric
+    <color name="sharp_slight_green">#d5f3d3</color>
+    <color name="sharp_deep_green">#30a628</color>
+    <color name="list_select_pink_blue">#35cfc2</color>
+    <color name="list_last_select_color">#b9a79bba</color>
+    <color name="purple">#a059da</color>
+    <color name="transparent_blue">#5ca059da</color>
+
+    <color name="receiveproduct_first">#405CB3FF</color>
+    <color name="receiveproduct_second">#00FFFFFF</color>
+    <color name="oper_record_inbound">#d467aee9</color>
+    <color name="oper_record_outbound">#af6bcf7c</color>
+    <color name="basic_background_red">#FFC9C9</color>
+    <color name="listviewtext">#4c4c4c</color>
+
+    <color name="orange">#E64A19</color>
+    <color name="result_view">#b0000000</color>
+    <color name="grey">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+
+    <color name="black_fade">#4b4949</color>
+    <color name="pink_blue">#e7addfff</color>
+
+    <color name="red">#d42626</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <color name="purple2">#6456ee</color>
+    <color name="pink1">#f069dc</color>
+    <color name="blue_fade1">#b3d2ec</color>
+    <color name="orange_fade1">#eedfc7</color>
+    <color name="a">@color/purple</color>
 </resources>
