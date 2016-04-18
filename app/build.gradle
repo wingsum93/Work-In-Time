@@ -20,8 +20,8 @@ android {
     }
     signingConfigs {
         beta {
-            storeFile file(BETA_STORE_FILE)
-            storePassword BETA_STORE_PASSWORD
+            storeFile file(BETA_KEYSTORE_FILE)
+            storePassword BETA_KEYSTORE_PASSWORD
             keyAlias BETA_KEY_ALIAS
             keyPassword BETA_KEY_PASSWORD
         }
